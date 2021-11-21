@@ -1,0 +1,124 @@
+ .header{
+    background: #3b5998 ;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float:left;
+
+}
+.login{
+    width: 50%;
+    padding-top: 10px;
+}
+.logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+    color: #fff;
+    font-size: 11px;
+}
+.login-controls{
+    margin-left: 115px;
+}
+.forgotten{
+  color: #fff;
+  font-size: 11px;
+  text-decoration: none;
+  color: #9cb4d8; 
+}
+.sub-btn{
+  color:#fff ;  
+  background: #4267b2;
+  border-color: #29487d;
+  height: 20px;
+  cursor: pointer;
+}
+.sub-btn:hover{
+    background: darkblue;
+}
+.left-section{
+    width: 45%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+.right-section{
+    width:39%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 700px;
+}
+.img{
+    width: 581px;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+
+}
+.form{
+    font-size: 15px;
+    font-weight: bold;
+
+}
+.placeholder{
+    border-radius: 2px;
+    border-width:1px;
+    width: 200px;
+    height: 40px;
+    font-size: 16px;
+    border-spacing: 2px;
+    border-radius: 5px;
+
+}
+.mobile{
+    margin-top: 10px;
+    width: 400px;
+    height: 40px;
+    font-size:16px;
+    border-radius: 5px;
+    margin-bottom: 17px;
+    border-width: 1px;
+    
+
+}
+.birth{
+    font-size: 15px;
+    margin-top: 10px;
+   
+}
+.gender{
+    margin-top: 7px;
+   font-weight: bold;
+
+   
+}
+.policy{
+    margin-top: 10px;
+    font-size: 10px;
+}
+.button{
+    width: 158px;
+    height: 42px;
+    font-size: 17px;
+    border-radius: 5px;
+    background: green;
+    color: white;
+    font-weight: bold;
+    margin-top: 15px ;
+}
